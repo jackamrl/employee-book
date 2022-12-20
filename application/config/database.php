@@ -58,8 +58,6 @@ $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
 
 /*f*/
-/*f*/
-
 
 
 /*f*/
