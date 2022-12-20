@@ -62,7 +62,6 @@ $db['default']['stricton'] = FALSE;
 /*aaa*/
 /*aaa*/
 /*aaa*/
-/*aaa*/
 
 
 /* End of file database.php */
