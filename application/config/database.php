@@ -58,10 +58,6 @@ $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
 /*f*/
 /*f*/
-/*f*/
-/*aaa*/
-/*aaa*/
-/*aaa*/
 
 
 /* End of file database.php */
