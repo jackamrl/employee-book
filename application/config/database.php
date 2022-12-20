@@ -57,7 +57,7 @@ $db['default']['swap_pre'] = '';
 $db['default']['autoinit'] = TRUE;
 $db['default']['stricton'] = FALSE;
 
-/*fff*/
+/*f*/
 
 /* End of file database.php */
 /* Location: ./application/config/database.php */
