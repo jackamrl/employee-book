@@ -59,6 +59,13 @@ $db['default']['stricton'] = FALSE;
 /*f*/
 /*f*/
 /*f*/
-/*f*/
+/*aaa*/
+/*aaa*/
+/*aaa*/
+/*aaa*/
+/*aaa*/
+/*aaa*/
+/*aaa*/
+/*aaa*/
 /* End of file database.php */
 /* Location: ./application/config/database.php */
